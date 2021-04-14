@@ -1,4 +1,4 @@
-#The project was done using the following skills:
+# The project was done using the following skills:
 
 - HTML layout
 - Styling a page with CSS

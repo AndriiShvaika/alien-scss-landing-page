@@ -1,4 +1,6 @@
-# The project was done using the following skills:
+# Alien SCSS Landing page:
+
+The website was done using the following skills:
 
 - HTML layout
 - Styling a page with CSS
